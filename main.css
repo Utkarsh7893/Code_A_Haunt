@@ -1,0 +1,46 @@
+body{
+    height:100vh;
+    width:100%;
+    background-position: center;
+    background-size: cover;
+    background-image:url(img_02.jpg);
+
+}
+#main_01{
+    background-color: rgba(240, 248, 255, 0.411);
+    height: 100vh;
+    width:98%;
+    margin-left: 10px;
+
+}
+#head{
+    background-color: bisque;
+    height:2.5cm;
+    width:98%;
+}
+p{
+    color:rgb(30, 16, 16);
+    font-size: 28px;
+    margin-left: 10cm;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+img{
+    height:4cm;
+    width:4cm;
+    border-radius: 5px;
+
+}
+img:hover{
+    height:4.1cm;
+    width:4.1cm;
+
+}
